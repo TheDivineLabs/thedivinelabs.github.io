@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://thedivinelabs.github.io/sitemap.xml
 Sitemap: https://thedivinelabs.github.io/remanga-api/sitemap.xml
